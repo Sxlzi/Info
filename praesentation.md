@@ -90,14 +90,16 @@ style: |
        1fr 2fr  -> rechts doppelt so breit wie links               */
 
   /* Eine breite und eine schmale Spalte:
-     .grid-2 { grid-template-columns: 2fr 1fr; align-items: center; } */
+     .grid-2 { grid-template-columns: 2fr 1fr; # Kostenmodell und Quellcode getrennt betrachtenalign-items: center; } */
+
+  .karte {
 
   /* --- Die Spalte: nur das Aussehen ------------------------------ */
   .spalte {
     padding: 18px;
     background: var(--flaeche-3);
     border-radius: 14px;
-    text-align: left;
+    text-align: left;# Kostenmodell und Quellcode getrennt betrachten
   }
 
   /* --- Karten: drei Dinge nebeneinander -------------------------- */
@@ -161,20 +163,24 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 
 <div class="titel">
 
-# Eine Folie mit einer Aussage
+# Passwortmanager über die ich sprechen werden 
+
 
 </div>
 
 <div class="liste">
 
-- Erster Stichpunkt
-- Zweiter Stichpunkt
+- Samsung Pass
+- 
 - Dritter Stichpunkt
 
 </div>
 
 <div class="fusszeile">
-    · Finn, 9a
+# Kostenmodell und Quellcode getrennt betrachten
+
+ 
+   Einleitung · Finn, 9a
 </div>
 
 ---
@@ -240,7 +246,7 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 
 <div class="titel">
 
-# Drei Dienste im Überblick
+# Drei Dienste im Vergleich
 
 </div>
 

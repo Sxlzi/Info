@@ -7,3 +7,7 @@
 ## 02.10.26
 
 - Mit der Präsentation angefangen und gearbeitet mit der vorlage von logineo.
+
+## 08.10.26
+
+-Ich habe heute an der Präsentation weitergearbeitet und mit Ki ein pro/Kontra erstellt
