@@ -381,10 +381,12 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 </div>
 
 <div class="fusszeile">
-  Einleitung · Finn, 9a
+  Drei Manager · Finn, 9a
 </div>
 
 ---
+
+
 
 <div class="titel">
 
@@ -414,9 +416,88 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 
   </div>
 </div>
-Fazit:Sicher und praktisch für Samsung-Nutzer, aber weniger flexibel als andere Passwort-Manager.
+
 <div class="fusszeile">
-  Überblick · Name, Klasse
+  Pro&Kontra · Name, Klasse
+</div>
+
+---
+
+<div class="titel">
+
+# Fazit zu Samsung Pass
+
+</div>
+
+<div class="liste">
+
+-Sicher und einfach zu nutzen
+-Gut für Samsung-Nutzer
+-Speichert und füllt Passwörter automatisch aus
+-Weniger Funktionen als andere Passwortmanager
+
+</div>
+
+<div class="fusszeile">
+  Fazit · Finn, 9a
+</div>
+
+---
+
+<div class="titel">
+
+# Pro und Contra Passwortmanager: Google.Passwords
+
+</div>
+
+<div class="grid-2">
+  <div class="spalte">
+
+  **Pro**
+
+-Kostenlos
+-Einfach zu nutzen
+-Speichert Passwörter automatisch
+
+  </div>
+  <div class="spalte">
+
+  **Kontra**
+
+-Google-Konto nötig
+-Datenschutzbedenken
+-Weniger Funktionen als andere Passwortmanager
+  
+   
+  </div>
+</div>
+
+<div class="fusszeile">
+  Pro&Kontra · Name, Klasse
+</div>
+
+---
+
+
+
+
+<div class="titel">
+
+# Fazit zu Google.Passwords
+
+</div>
+
+<div class="liste">
+
+-Einfach und kostenlos
+-Praktisch für Google-Nutzer
+-Gute Grundfunktionen
+-Weniger flexibel als andere Passwortmanager
+
+</div>
+
+<div class="fusszeile">
+  Fazit · Finn, 9a
 </div>
 
 ---

@@ -11,3 +11,11 @@
 ## 08.10.26
 
 -Ich habe heute an der Präsentation weitergearbeitet und mit Ki ein pro/Kontra erstellt
+
+## 09.10.26
+
+-Ich hab weitere Folien Bearbeitet
+
+-Weitere Pro und Kontras erstellt
+
+
