@@ -21,6 +21,7 @@
 ## 15.10.26
 
 -Präsetation weitergeführt
--Mit ai dinge erstellt
+
+- Mit Ai Endfazit bearbeitet
 
 
