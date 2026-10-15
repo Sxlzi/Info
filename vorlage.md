@@ -501,3 +501,82 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 </div>
 
 ---
+
+<div class="titel">
+
+# Pro und Contra Passwortmanager: Apple Password
+
+</div>
+
+<div class="grid-2">
+  <div class="spalte">
+
+  **Pro**
+
+-Sicher
+-Einfach zu nutzen
+-Automatische Anmeldung
+
+  </div>
+  <div class="spalte">
+
+  **Kontra**
+
+-Vor allem für Apple
+-Abhängig von Apple-ID
+-Weniger Funktionen
+  
+   
+  </div>
+</div>
+
+<div class="fusszeile">
+  Pro&Kontra · Name, Klasse
+</div>
+
+---
+
+<div class="titel">
+
+# Fazit zu Apple Password
+
+</div>
+
+<div class="liste">
+
+## Fazit:
+
+-Sicher für Passwörter
+-Einfach zu bedienen
+-Gut für Apple-Geräte
+-Weniger geeignet für andere Systeme
+
+</div>
+
+<div class="fusszeile">
+  Fazit · Finn, 9a
+</div>
+
+---
+
+<div class="titel">
+
+# Endfazit zum Thema Passwortmanager
+
+</div>
+
+<div class="liste">
+
+## Mein Endfazit:
+
+
+
+</div>
+
+<div class="fusszeile">
+
+Endfazit · Finn, 9a
+</div>
+
+---
+

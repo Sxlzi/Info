@@ -18,4 +18,9 @@
 
 -Weitere Pro und Kontras erstellt
 
+## 15.10.26
+
+-Präsetation weitergeführt
+-Mit ai dinge erstellt
+
 
