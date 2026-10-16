@@ -148,209 +148,6 @@ style: |
 
 <div class="liste">
 
-- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
-- Name
-- Klasse
-- Datum
-
-</div>
-
-<div class="fusszeile">
-  Titel · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Eine Folie mit einer Aussage
-
-</div>
-
-<div class="liste">
-
-- Erster Stichpunkt
-- Zweiter Stichpunkt
-- Dritter Stichpunkt
-
-</div>
-
-<div class="fusszeile">
-  Einleitung · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Kostenmodell und Quellcode getrennt betrachten
-
-</div>
-
-<div class="grid-2">
-  <div class="spalte">
-
-  **Kostenmodell**
-
-  - kostenpflichtig oder kostenlos?
-  - kostenlose Grundfunktionen, Zusatzangebote?
-
-  </div>
-  <div class="spalte">
-
-  **Quellcode**
-
-  - öffentlich zugänglich?
-  - Lizenz und Beleg prüfen
-
-  </div>
-</div>
-
-<div class="fusszeile">
-  Überblick · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Eine breite und eine schmale Spalte
-
-</div>
-
-<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
-  <div class="spalte">
-
-  - Erklärung, Aufzählung oder Fließtext
-  - Der Text bekommt zwei Teile der Breite
-
-  </div>
-  <div class="spalte">
-
-  **Kurzfassung**
-
-  - Ein Satz
-
-  </div>
-</div>
-
-<div class="fusszeile">
-  Detail und Überblick · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Drei Dienste im Überblick
-
-</div>
-
-<div class="karten">
-  <div class="karte">
-
-  **Dienst A**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
-  <div class="karte">
-
-  **Dienst B**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
-  <div class="karte">
-
-  **Dienst C**
-
-  - Kostenmodell: …
-  - Quellcode: …
-  - Unterschied: …
-
-  </div>
-</div>
-
-<div class="fusszeile">
-  Überblick · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Merksatz oder Kasten
-
-</div>
-
-<div class="merksatz">
-  Ein Satz, den das Publikum behalten soll.
-</div>
-
-<div class="box">
-
-- Ein Punkt
-- Ein weiterer Punkt
-
-</div>
-
-<div class="fusszeile">
-  Merksatz · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Bild mit Beschreibung
-
-</div>
-
-<div class="bild">
-
-![Kurze Beschreibung des Bildes](bilder/beispiel.png)
-
-</div>
-
-<div class="fusszeile">
-  Bild · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Quellen
-
-</div>
-
-<div class="liste">
-
-- [Titel der Quelle](https://beispiel.de), abgerufen am TT.MM.JJ
-- [Titel der zweiten Quelle](https://beispiel.de), vom TT.MM.JJ
-
-</div>
-
-<div class="fusszeile">
-  Quellen · Name, Klasse
-</div>
-
----
-
-<div class="titel">
-
-# Titel deiner Präsentation
-
-</div>
-
-<div class="liste">
-
 Name:Finn
 Klasse:9a
 Datum:08.10.26
@@ -567,7 +364,13 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 
 <div class="liste">
 
-## Mein Endfazit:
+### Mein Endfazit:
+
+-Sicher und einfach
+-Schnelle Anmeldung
+-Spart Zeit
+-Ideal für Samsung-Nutzer
+-Für mich die beste Wahl, da ich Samsung nutze
 
 
 
@@ -578,5 +381,7 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 Endfazit · Finn, 9a
 </div>
 
----
+
+
+
 
