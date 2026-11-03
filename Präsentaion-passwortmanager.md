@@ -370,7 +370,7 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 -Schnelle Anmeldung
 -Spart Zeit
 -Ideal für Samsung-Nutzer
--Für mich die beste Wahl, da ich Samsung nutze Samsung-Pass
+-Für mich die beste Wahl, da ich Samsung nutze: Samsung-Pass
 
 
 </div>
