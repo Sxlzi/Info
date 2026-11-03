@@ -151,7 +151,7 @@ style: |
 Name:Finn
 Klasse:9a
 Datum:08.10.26
-- Heutige Bedeutung: Damit man einen ort hat wo man seine Passwörter speichern kann um sie sich zu merken und nicht zu verlieren.
+- Heutige Bedeutung: Damit man einen Ort hat wo man seine Passwörter speichern kann um sie sich zu merken und nicht zu verlieren.
 - Leitfrage und Ziel: Welcher Passwortmanager
 ist am sichersten und wie vereinfacht er den digitalen Alltag?
 
@@ -370,8 +370,7 @@ ist am sichersten und wie vereinfacht er den digitalen Alltag?
 -Schnelle Anmeldung
 -Spart Zeit
 -Ideal für Samsung-Nutzer
--Für mich die beste Wahl, da ich Samsung nutze
-
+-Für mich die beste Wahl, da ich Samsung nutze Samsung-Pass
 
 
 </div>
